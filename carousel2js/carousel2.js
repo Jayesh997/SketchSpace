@@ -1,5 +1,5 @@
 let mainslide= document.getElementById("main_slide");
-let slidearray = ["../carousel2html/1.jpg", "../carousel2html/2.jpg","../carousel2html/3.jpg", "../carousel2html/4.jpg", "../carousel2html/5.jpg","../carousel2html/6.jpg","../carousel2html/7.jpg","../carousel2html/8.jpg"]
+let slidearray = ["./1.jpg", "./2.jpg","./3.jpg", "./4.jpg", "./5.jpg","./6.jpg","./7.jpg","./8.jpg"]
 let imageindex=0;
 // ------Rightbutton------
 rightbutton.addEventListener("click", function(){
